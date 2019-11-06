@@ -7,7 +7,7 @@ python gradient.py
 ```
 
 ### Output
-k is the iteration count, fVal is the sum of squared distances from the current hospital to the cities, grad is the value of the gradient for the current hospital, and h is the corrdinates of the hospital. The given cities coordinates are (0, 0), (30, 110), (60, 100), and (50, 50). The initial hospital corrdinates is set to (0, 55).
+k is the iteration count, fVal is the sum of squared distances from the current hospital to the cities, grad is the value of the gradient for the current hospital, and h is the coordinates of the hospital. The given cities coordinates are (0, 0), (30, 110), (60, 100), and (50, 50). The initial hospital coordinates is set to (0, 55).
 
 Output for the given cities corrdinates and initial hospital coordinates:
 ```
