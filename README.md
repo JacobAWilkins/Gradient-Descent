@@ -30,4 +30,4 @@ Graph produced by these coordinates (X's are hospitals and O's are cities):
 
 ![here](https://github.com/JacobAWilkins/Gradient-Descent/blob/master/graph.png)
 
-After 13 iterations, the hospital moves from (0, 55) to (24.11, 61.89). This problem is relevant to real-world scenarios where a hospital needs to be placed in an optimal position for neighboring cities to access.
+After 14 iterations, the hospital moves from (0, 55) to (24.11, 61.89). This problem is relevant to real-world scenarios where a hospital needs to be placed in an optimal position for neighboring cities to access.
