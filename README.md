@@ -27,4 +27,7 @@ k = 12, fVal = 10516.45, grad = [102.95, 29.41]  h = [23.16, 61.62]
 k = 13, fVal = 10406.40, grad = [94.71, 27.06]  h = [24.11, 61.89]
 ```
 Graph produced by these coordinates (X's are hospitals and O's are cities):
+
 ![here](https://github.com/JacobAWilkins/Gradient-Descent/blob/master/graph.png)
+
+After 13 iterations, the hospital moves from (0, 55) to (24.11, 61.89). This problem is relevant to real-world scenarios where a hospital needs to be placed in an optimal position for neighboring cities to access.
