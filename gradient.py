@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
 
-# Author: Jacob Wilkins
+@author: Jacob Wilkins
+@copyright: GNU General Public Licence
+
+k is the iteration count
+fVal is the sum of squared distances from the current hospital to the cities
+grad is the value of the gradient for the current hospital
+h is the corrdinates of the hospital
+
 """
-    k is the iteration count
-    fVal is the sum of squared distances from the current hospital to the cities
-    grad is the value of the gradient for the current hospital
-    h is the corrdinates of the hospital
-"""
+
 from numpy import linalg as LA, sum, array, vstack
 import matplotlib.pyplot as plt
 
